@@ -1,0 +1,15 @@
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\bin\Debug\net6.0\Corbeille.exe
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\bin\Debug\net6.0\Corbeille.deps.json
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\bin\Debug\net6.0\Corbeille.runtimeconfig.json
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\bin\Debug\net6.0\Corbeille.dll
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\bin\Debug\net6.0\ref\Corbeille.dll
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\bin\Debug\net6.0\Corbeille.pdb
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.csproj.AssemblyReference.cache
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.AssemblyInfoInputs.cache
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.AssemblyInfo.cs
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.csproj.CoreCompileInputs.cache
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.dll
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\ref\Corbeille.dll
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.pdb
+D:\LA CITE\3e Session\Structure des Données appliquées\Corbeille\Corbeille\Corbeille\obj\Debug\net6.0\Corbeille.genruntimeconfig.cache
