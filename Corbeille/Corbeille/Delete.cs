@@ -8,5 +8,6 @@ namespace Corbeille
 {
     internal class Delete
     {
+        private string path;
     }
 }
