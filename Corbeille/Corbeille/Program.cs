@@ -3,6 +3,9 @@ using Corbeille;
 
 
 
-
-Delete delete = new Delete(@"C:\Users\Andre\Desktop\test2\", nombreFichier: 20, vitesse: 2000);
+Delete delete = new Delete(
+    path: @"C:\Users\Andre\Desktop\test2\", 
+    nombreFichier: 50, 
+    vitesse: 100
+    );
 delete.Launch();

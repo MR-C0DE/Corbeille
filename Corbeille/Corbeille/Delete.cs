@@ -32,13 +32,14 @@ namespace Corbeille
         {
             GoCreate();
             GoDelete();
+            Console.Clear();
             
         }
 
         private bool GoCreate()
         {
             compteur++;
-            Thread.Sleep(30);
+            Thread.Sleep(vitesse);
             CreateFile(compteur);
 
             if (compteur < nombreFichier)
@@ -63,6 +64,7 @@ namespace Corbeille
         private void CreateFile(int file)
         {
             string paths = path + "\\" +  file + ".txt";
+            Directory.CreateDirectory(path + "\\" + file);
             string Text = "Hello, Hi, ByeBye";
             File.WriteAllText(paths, Text);
             Console.WriteLine($"Creation du fichier : {paths}\n");
@@ -74,6 +76,7 @@ namespace Corbeille
             foreach (var file in files)
             {
                 File.Delete(file);
+                Directory.Delete(path + "\\", true);
                 Console.Beep(500,vitesse);
                 Console.WriteLine($"Suppression du fichier : {file}\n");
             }
